@@ -1,0 +1,10 @@
+
+
+Various components in chip:
+
+a. PADS:
+       It is a component through which you can send and receive signals inside and outside a chip.
+b. CORE: 
+       A 'core' is the section of the chip where the fundamental logic of the design is placed.
+c. DIE:
+       A die, which consists of core, is small semiconductor material specimen on which the fundamental circuit is fabricated.
